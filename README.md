@@ -1,1 +1,1 @@
-# -_-1
+# Parallel programming lab work №1
